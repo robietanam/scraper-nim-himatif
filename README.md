@@ -7,3 +7,6 @@ angkatan = ['17', '18', '19', '20', '21', "22", '23', '24']
 1. Run app.py (lama)
 2. data ada di data.json
 3. Impor ke dashboard
+
+NB:
+* Jangan lupa dicheck lagi buat data redundant (banyak ditemukan di angkatan 22, meski di lainnya gaada)
